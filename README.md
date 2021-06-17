@@ -1,1 +1,1 @@
-# Bitcoin_Price_Prediction
+# Data Science Projects
